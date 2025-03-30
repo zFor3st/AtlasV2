@@ -1,4 +1,4 @@
---ka
+--Mod
 local a, b = {
    {
        1,
@@ -4418,6 +4418,7 @@ local aa = {
                ["lucide-zoom-in"] = "rbxassetid://10747384552",
                ["lucide-notebook"] = "rbxassetid://88191740149805",
                ["lucide-banknote-arrow-up"] = "rbxassetid://84422259739648",
+               ["lucide-user-pen"] = "rbxassetid://134326127088668",
                ["lucide-zoom-out"] = "rbxassetid://10747384679"
            }
        }
