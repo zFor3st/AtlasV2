@@ -1,4 +1,4 @@
---Mod
+--Mod by f7rest
 local a, b = {
    {
        1,
@@ -4419,6 +4419,7 @@ local aa = {
                ["lucide-notebook"] = "rbxassetid://88191740149805",
                ["lucide-banknote-arrow-up"] = "rbxassetid://84422259739648",
                ["lucide-user-pen"] = "rbxassetid://134326127088668",
+               ["lucide-drama"] = "rbxassetid://97613417144762",
                ["lucide-zoom-out"] = "rbxassetid://10747384679"
            }
        }
