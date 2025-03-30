@@ -4417,6 +4417,7 @@ local aa = {
                ["lucide-x-square"] = "rbxassetid://10747384217",
                ["lucide-zoom-in"] = "rbxassetid://10747384552",
                ["lucide-notebook"] = "rbxassetid://88191740149805",
+               ["lucide-banknote-arrow-up"] = "rbxassetid://84422259739648",
                ["lucide-zoom-out"] = "rbxassetid://10747384679"
            }
        }
