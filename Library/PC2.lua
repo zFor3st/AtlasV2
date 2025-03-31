@@ -1966,3 +1966,5 @@ Library.newWindow = function(data)
     end
     return funcs
 end
+
+return Library
