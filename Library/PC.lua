@@ -1,4 +1,4 @@
---Mod by f7rest
+--Mod ny f7restty
 local a, b = {
    {
        1,
