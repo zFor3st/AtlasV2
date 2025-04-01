@@ -505,8 +505,8 @@ local aa = {
    [8] = function()
        local c, d, e, f, g = b(8)
        return {
-           Close = "rbxassetid://9886659671",
-           Min = "rbxassetid://9886659276",
+           Close = "rbxassetid://10747384394",
+           Min = "rbxassetid://10734895698",
            Max = "rbxassetid://10734886735",
            Restore = "rbxassetid://9886659001"
        }
